@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Reporting a Vulnerability
-Please report vulnerabilities privately via email to <YOUR_CONTACT@EXAMPLE>. 
+Please report vulnerabilities privately via email to sorenmartin2006@gmail.com.
 Provide a minimal PoC and environment details. We’ll acknowledge within 72 hours.
 
 ## Scope
